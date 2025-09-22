@@ -14,6 +14,7 @@ Install dependencies via pip:
 ```bash
 pip install numpy scipy
 
+```
 ## Running the Script
 
 Clone or place `split_prep_detector.py` in your project directory, then run:
@@ -21,6 +22,7 @@ Clone or place `split_prep_detector.py` in your project directory, then run:
 ```bash
 python split_prep_detector.py
 
+```
 ## What Happens When You Run It
 
 The pipeline is executed for:
